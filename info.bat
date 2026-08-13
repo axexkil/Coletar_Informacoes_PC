@@ -100,7 +100,7 @@ del Processador_Desktop_Antigo.var
 del Memoria-Desktop_Antigo.var
 del OS.var
 
-echo  ┬┌─┐┌─┐┌─┐  ┬  ┬┬┌┬┐┌─┐┬─┐  ┬─┐┌─┐┌─┐┬ ┬┌─┐
-echo  ││ │├─┤│ │  └┐┌┘│ │ │ │├┬┘  ├┬┘│ ││  ├─┤├─┤
-echo └┘└─┘┴ ┴└─┘   └┘ ┴ ┴ └─┘┴└─  ┴└─└─┘└─┘┴ ┴┴ ┴
+echo ┌─┐┐ ┌┌─┐┐ ┌┬┌ ┬┬  
+echo ├─┤└┬┘├┤ └┬┘├┴┐││  
+echo ┴ ┴┘ └└─┘┘ └┴ ┴┴┴─┘
 pause
