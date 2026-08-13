@@ -5,4 +5,4 @@ Execute o arquivo info.bat e espere o programa gerar o laudo_rat.txt com as info
 
 ATENÇÃO É IMPRESCINDÍVEL BAIXAR O ARQUIVO sfk.exe PARA O SCRIPT FUNCIONAR!
 
-@Joao Vitor Rocha Queiroz
+@Axexkil
